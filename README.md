@@ -115,10 +115,12 @@ The website is fully responsive using media queries:
 
 ---
 
+
 ## Technologies Used
 
 - HTML5
 - CSS3 (Flexbox and Media Queries)
+
 
 ---
 
