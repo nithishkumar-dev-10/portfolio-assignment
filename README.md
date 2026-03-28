@@ -2,7 +2,6 @@
 
 This is my personal portfolio website built using HTML and CSS, designed to showcase my skills, projects, and achievements as a Computer Science student and aspiring AI Engineer.
 
-
 ---
 
 ## Portfolio Link
